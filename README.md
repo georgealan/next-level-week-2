@@ -1,25 +1,25 @@
 
 
 <h1 align="center">
-     💻 <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native" alt="Desafio da Rocketeseat"> Desafio 04: Conceitos do React-Native </a>
+     💻 <a href=# alt="Desafio da Rocketeseat"> Next Level Week 2</a>
 </h1>
 
 <h3 align="center">
-    Aplicação mobile em React-Native que irá armazenar repositórios de um portfólio, que utiliza o backend separado em Node.js.
+    Semana Next Level Week onde é desenvolvida uma aplicação de ponta a ponta, do back-end ao front-end e mobile.
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/georgealan/desafio-04-conceitos-do-react-native?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/georgealan/next-level-week-2?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/georgealan/desafio-04-conceitos-do-react-native">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/georgealan/next-level-week-2">
   
   <a href="https://github.com/georgealan/desafio-04-conceitos-do-react-native/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/georgealan/desafio-04-conceitos-do-react-native">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/georgealan/next-level-week-2">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/georgealan/desafio-04-conceitos-do-react-native/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/georgealan/desafio-04-conceitos-do-react-native?style=social">
+   <a href="https://github.com/georgealan/next-level-week-2/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/georgealan/next-level-week-2?style=social">
   </a>
 
   <a href="https://kodyweb.com.br">
@@ -32,52 +32,27 @@
 </p>
 
 <h4 align="center">
-	🚧   Concluído 🚀 🚧
+	🚧   Em Andamento 🚀 🚧
 </h4>
-
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#user-content-funcionalidades)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o App pelo emulador AVD Android Studio](#user-content--rodando-o-app-pelo-emulador-avd-android-studio)
-   * [Tecnologias](#-tecnologias)
-     * [Mobile](#user-content-website--react----typescript)
-   * [Autor](#-autor)
-   * [Licença](#user-content--licença)
-<!--te-->
 
 
 ## 💻 Sobre o projeto
 
-Simples aplicação React-native para testar a integração do mobile com o backent utilizando o Axios, e como demonstração
-utilizando os verbos: GET, POST, para manipular os dados da lista que é capturada na aplicação backend em NodeJS.
+Aplicação React...
 
-Projeto desenvolvido durante o **Bootcamp GoStack 11** oferecido pela [Rocketseat](https://rocketseat.com.br/gostack).
+Projeto desenvolvido durante o **Next Level Week 2** oferecido pela [Rocketseat](https://rocketseat.com.br).
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Pode exibir repositórios em uma lista com:
-  - [x] GET
-  - [x] POST
+...
 
 ---
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em duas partes:
-1. Backend:
-Vá até este <a href="https://github.com/georgealan/desafio-02-conceitos-do-nodejs">repositório</a> e siga as instruções
-para clonar e utilizar o projeto backend que faz parte deste desafio.
-2. Mobile (este projeto aqui)
-
-💡O Mobile precisa que o backend esteja sendo executado para funcionar.
-
-💡Para rodar os testes desligar o servidor o backend.
+...
 
 ### Pré-requisitos
 
@@ -88,7 +63,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [Node.js](https://nodejs.org/en/)
 - Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o App pelo emulador AVD Android Studio
+#### Instruções de Uso
 
 ```bash
 
